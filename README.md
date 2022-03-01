@@ -41,8 +41,8 @@ The UFO Sightings dynamic webpage includes the following:
 - Table of UFO Sightings Data
 
 <p float="left">
-  <img src="Readme_Images/Storyboard.png" width="450" height="350" />
-  <img src="Readme_Images/Storyboard_webpage.png" width="450" height="350" /> 
+  <img src="Readme_Images/Storyboard.png" width="450" height="300" />
+  <img src="Readme_Images/Storyboard_webpage.png" width="450" height="300" /> 
 </p>
 
 Furthermore, below is a quick walk-through on how to use the filters to search for specific data from the table of UFO sightings data. The filters for the table are located on the left side of the webpage. In this example, the user looks up for UFO sightings in the shape of a triangle and in the city of La Mesa, California. Once the user presses enter, the table gives an output of one row of data with complete details. 
