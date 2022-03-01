@@ -44,11 +44,15 @@ The UFO Sightings dynamic webpage includes the following:
   <img src="Readme_Images/Storyboard_webpage.png" width="450" height="350" /> 
 </p>
 
-Furthermore, below is a quick walk-through on how to use the filters to search for specific data from the table of sightings data.
+Furthermore, below is a quick walk-through on how to use the filters to search for specific data from the table of sightings data. The filters for the table are located on the left side of the webpage. In this example, the user looks up for UFO sightings in the shape of a triangle and in the city of la mesa. Once the user presses enter, the table gives an putput of one row of data with complete details. 
 
 https://user-images.githubusercontent.com/95309815/156206558-a978ceb5-cba0-4769-bd31-aaf126460bd9.mov
 
-As shown here, the registered UFO sightings data is displayed as a table organized by date, city, state, country, shape, duration, and comments.
+As shown here, there are placeholders in each filter to guide the user on how to enter a search value. For example, to enter a date the format to follow is month/day/year or 1/10/2020 as displayed.
+
+ADD IMAGE: Filter search
+
+Lastly, the registered UFO sightings data is displayed as a table organized by date, city, state, country, shape, duration, and comments.
 
 ![data_columns1](Readme_Images/data_columns1.png)
 
