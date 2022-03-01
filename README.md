@@ -49,19 +49,19 @@ Furthermore, below is a quick walk-through on how to use the filters to search f
 
 https://user-images.githubusercontent.com/95309815/156206558-a978ceb5-cba0-4769-bd31-aaf126460bd9.mov
 
-As shown here, there are placeholders in each filter to guide the user on how to enter a search value. For example, to enter a date the format to follow is month/day/year or 1/10/2020 as displayed.
+As shown here, there are placeholders for each filter to guide the user on how to write a search entry. For example, to enter a date the format to follow is month/day/year or 1/10/2020 as displayed.
 
 <p float="left">
   <img src="Readme_Images/filter.png" width="200" height="450" />
 </p>
 
-Lastly, the registered UFO sightings data is displayed as a table organized by date, city, state, country, shape, duration, and comments.
+Lastly, the registered UFO sightings data is presented as a table organized by date, city, state, country, shape, duration, and comments.
 
 ![data_columns1](Readme_Images/data_columns1.png)
 
 ## Summary
 
-The UFO Sightings dynamic webpage includes great features, however there is a drawback to it. In the filter's search bar, the data is case sensitive and does not allow for misspelling nor incomplete entries. This truly limits the filter search capability, therefore limiting the volume of data output. For example, one would enter La Mesa using upper case for both words as it is a city located in California. However, the city data is saved using lower case and as such, will not recognize the entry as shown below. 
+The UFO Sightings webpage has great features, however there is a drawback to it. In the filter's search bar, the data is case sensitive and does not allow for misspelling nor incomplete entries. This truly limits the filter search capability, therefore limiting the volume of data output. For example, one would enter La Mesa using upper case for both words as it is a city located in California. However, the city data is saved using lower case and as such, will not recognize the entry as shown below. 
 
 ![La_Mesa](Readme_Images/La_Mesa.png)
 
@@ -69,8 +69,12 @@ The UFO Sightings dynamic webpage includes great features, however there is a dr
 
 With that stated, here are two recommendations or HTML attributes that could be used for further development:
 
-- The <input> tag with the <autocomplete> tag can be added to provide automated assistance in filling out form field values. 
+```
+- The <input> tag with the <autocomplete> tag can be added to provide automated assistance in filling out field values. 
 
 - The <select> tag with the <option> tag can be added to create a drop-down list.
+```
 
-In summary, ... an exploratory analysis on weather data was completed to generate a summary statistics for temperatures in June and December. Using Python and SQLAlchemy, additional queries were run to retrieve precipitation data on both June and December months. The precipitation data was then represented in a line chart to further instill confidence in W. Avy to invest in Surf n’ Shake with an eye toward future expansion. Given all the data reflected above, weather should not be a major concern with respect to investing in Surf n’ Shake. Surf's up!
+Both attributes can offer added value to the UFO Sightings webpage. For instance, under the filter search for shape, it is difficult to know what shapes to search for in the data table. At a quick glance, a user can see circle, triangle, and oval as possible shapes to look for in a search. Although, it would be challenging for a user to think of fireball, chevron or light as a possible shape in their search entry. By adding these HTML attributes, it can eliminate any confusion when searching for specific data and enhance the user experience.    
+
+In summary, Dana's webpage of UFO sightings has now a dynamic table that allows users to filter for multiple criteria at the same time. These include date, city, state, country, and shape that can be filtered to provide a more in-depth analysis of UFO sightings.
