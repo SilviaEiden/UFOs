@@ -61,21 +61,16 @@ Lastly, the registered UFO sightings data is displayed as a table organized by d
 
 ## Summary
 
-The UFO Sightings dynamic webpage includes great features, however there is a drwback to it. In the filter's search bar, the data is case sensitive and does not allow for mispelling nor incomplete entries. This truly limits the filter search capability, therefore limiting the volume of data output. For example, one would enter La Mesa using upper case for both words as it is a city located in California, however the city data is saved using lower case and as such will not recognize the entry. 
+The UFO Sightings dynamic webpage includes great features, however there is a drawback to it. In the filter's search bar, the data is case sensitive and does not allow for misspelling nor incomplete entries. This truly limits the filter search capability, therefore limiting the volume of data output. For example, one would enter La Mesa using upper case for both words as it is a city located in California. However, the city data is saved using lower case and as such, will not recognize the entry as shown below. 
 
-<p float="left">
-  <img src="Readme_Images/filter.png" width="300" height="450" />
-  <img src="Readme_Images/filter.png" width="300" height="450" />
-</p>
+![La_Mesa](Readme_Images/La_Mesa.png)
 
-With that stated, here are two recommendations that could be used for further development:
+![la_mesa1](Readme_Images/la_mesa1.png)
 
-- The HTML autocomplete attribute. This attribute provides automated assistance in filling out form field values, as well as guidance to the browser as to the type of information expected in the field.
+With that stated, here are two recommendations or HTML attributes that could be used for further development:
 
+- The <input> tag with the <autocomplete> tag can be added to provide automated assistance in filling out form field values. 
 
+- The <select> tag with the <option> tag can be added to create a drop-down list.
 
-
-* The summary addresses one drawback of this webpage (2 pt)
-* The summary addresses two additional recommendations for further development (4 pt)
-
-In conclusion, an exploratory analysis on weather data was completed to generate a summary statistics for temperatures in June and December. Using Python and SQLAlchemy, additional queries were run to retrieve precipitation data on both June and December months. The precipitation data was then represented in a line chart to further instill confidence in W. Avy to invest in Surf n’ Shake with an eye toward future expansion. Given all the data reflected above, weather should not be a major concern with respect to investing in Surf n’ Shake. Surf's up!
+In summary, ... an exploratory analysis on weather data was completed to generate a summary statistics for temperatures in June and December. Using Python and SQLAlchemy, additional queries were run to retrieve precipitation data on both June and December months. The precipitation data was then represented in a line chart to further instill confidence in W. Avy to invest in Surf n’ Shake with an eye toward future expansion. Given all the data reflected above, weather should not be a major concern with respect to investing in Surf n’ Shake. Surf's up!
