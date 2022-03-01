@@ -49,13 +49,13 @@ Furthermore, below is a quick walk-through on how to use the filters to search f
 
 https://user-images.githubusercontent.com/95309815/156206558-a978ceb5-cba0-4769-bd31-aaf126460bd9.mov
 
-As shown here, there are placeholders for each filter to guide the user on how to write a search entry. For example, to enter a date the format to follow is month/day/year or 1/10/2020 as displayed.
+Moreover, there are placeholders for each filter to guide the user on how to write a search entry. For example, to enter a date the format to follow is month/day/year or 1/10/2020 as displayed.
 
 <p float="left">
   <img src="Readme_Images/filter.png" width="200" height="450" />
 </p>
 
-Lastly, the registered UFO sightings data is presented as a table organized by date, city, state, country, shape, duration, and comments.
+Lastly, the UFO sightings data is presented as a table organized by date, city, state, country, shape, duration, and comments.
 
 ![data_columns1](Readme_Images/data_columns1.png)
 
