@@ -9,8 +9,9 @@ The purpose of this analysis is to help Dana, a data journalist, with her webpag
 Now, Dana's dynamic webpage can provide a more in-depth analysis of UFO sightings. 
 
 <p float="left">
-  <img src="Readme_Images/UFO.png" width="350" height="100" />
-  <img src="Readme_Images/nasa.jpg" width="350" height="100" />
+  <img src="Readme_Images/UFO.png" width="300" height="100" />
+  <img src="Readme_Images/nasa.jpg" width="300" height="100" />
+  <img src="Readme_Images/disk.jpg" width="300" height="100" />
 </p>
 
 ## Results
@@ -39,8 +40,8 @@ The UFO Sightings dynamic webpage includes the following:
 - Table of Sightings Data
 
 <p float="left">
-  <img src="Readme_Images/Storyboard.png" width="500" height="350" />
-  <img src="Readme_Images/Storyboard_webpage.png" width="500" height="350" /> 
+  <img src="Readme_Images/Storyboard.png" width="450" height="350" />
+  <img src="Readme_Images/Storyboard_webpage.png" width="450" height="350" /> 
 </p>
 
 Furthermore, below is a quick walk-through on how to use the filters to search for specific data from the table of sightings data.
@@ -49,7 +50,7 @@ https://user-images.githubusercontent.com/95309815/156206558-a978ceb5-cba0-4769-
 
 As shown here, the registered UFO sightings data is displayed as a table organized by date, city, state, country, shape, duration, and comments.
 
-iNSERT IMage: Data Columns.png
+![data_columns](Readme_Images/data_columns.png)
 
       
 ## Summary
