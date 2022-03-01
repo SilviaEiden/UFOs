@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/95309815/156206558-a978ceb5-cba0-4769-
 
 As shown here, the registered UFO sightings data is displayed as a table organized by date, city, state, country, shape, duration, and comments.
 
-![data_columns](Readme_Images/data_columns.png)
+![data_columns1](Readme_Images/data_columns1.png)
 
       
 ## Summary
