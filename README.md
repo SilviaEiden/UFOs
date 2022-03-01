@@ -38,14 +38,14 @@ The UFO Sightings dynamic webpage includes the following:
 - Article Title: "UFO Sightings: Fact or Fancy? Ufologists Weigh In"
 - Article Paragraph
 - Filters for the Table: "Date, City, State, Country, and Shape"
-- Table of UFO Sightings Data
+- Table of Sightings Data
 
 <p float="left">
   <img src="Readme_Images/Storyboard.png" width="450" height="300" />
   <img src="Readme_Images/Storyboard_webpage.png" width="450" height="300" /> 
 </p>
 
-Furthermore, below is a quick walk-through on how to use the filters to search for specific data from the table of UFO sightings data. The filters for the table are located on the left side of the webpage. In this example, the user looks up for UFO sightings in the shape of a triangle and in the city of La Mesa, California. Once the user presses enter, the table gives an output of one row of data with complete details. 
+Furthermore, below is a quick walk-through on how to use the filters to search for specific information from the data table. The filters for the table are located on the left side of the webpage. In this example, the user looks up for UFO sightings in the shape of a triangle and in the city of La Mesa, California. Once the user presses enter, the table gives a one row output of data with complete details. 
 
 https://user-images.githubusercontent.com/95309815/156206558-a978ceb5-cba0-4769-bd31-aaf126460bd9.mov
 
@@ -61,7 +61,7 @@ Lastly, the UFO sightings data is presented as a table organized by date, city, 
 
 ## Summary
 
-The UFO Sightings webpage has great features, however there is a drawback to it. In the filter's search bar, the data is case sensitive and does not allow for misspelling nor incomplete entries. This truly limits the filter search capability, therefore limiting the volume of data output. For example, one would enter La Mesa using upper case for both words as it is a city located in California. However, the city data is saved using lower case and as such, will not recognize the entry as shown below. 
+The UFO Sightings webpage has great features, however there is a drawback to it. In the filter's search bar, the data is case sensitive and does not allow for misspelling or incomplete entries. This truly limits the filter search capability, therefore limiting the volume of data output. For example, one would enter La Mesa using upper case for both words as it is a city located in California. However, the city data is saved using lower case and as such, will not recognize the entry as shown below. 
 
 ![La_Mesa](Readme_Images/La_Mesa.png)
 
@@ -77,4 +77,4 @@ With that stated, here are two recommendations or HTML attributes that could be 
 
 Both attributes can offer added value to the UFO Sightings webpage. For instance, under the filter search for shape, it is difficult to know what shapes to search for in the data table. At a quick glance, a user can see circle, triangle, and oval as possible shapes to look for in a search. Although, it would be challenging for a user to think of fireball, chevron or light as a possible shape in their search entry. By adding these HTML attributes, it can eliminate any confusion when searching for specific data and enhance the user experience.    
 
-In summary, Dana's webpage of UFO sightings has now a dynamic table that allows users to filter for multiple criteria at the same time. These include date, city, state, country, and shape that can be filtered to provide a more in-depth analysis of UFO sightings.
+In summary, Dana's webpage of UFO sightings now has a dynamic table that allows users to filter for multiple criteria at the same time. These include date, city, state, country, and shape that can be filtered to provide a more in-depth analysis of UFO sightings.
