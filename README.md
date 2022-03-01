@@ -4,13 +4,14 @@
 
 ### Purpose
 
-The purpose of this analysis is to help Dana, a data journalist, with her webpage of UFO sightings. Using JavaScript, a dynamic table was created allowing users to filter for multiple criteria at the same time. This includes filtering by date, city, state, country, and shape.
+The purpose of this analysis is to help Dana, a data journalist, with her webpage of UFO sightings. Using JavaScript, a dynamic table was created allowing users to filter for multiple criteria at the same time. This includes filtering by date, city, state, country, and shape. 
 
-Now, Dana's webpage can provide a more in-depth analysis of UFO sightings. 
+Now, Dana's dynamic webpage can provide a more in-depth analysis of UFO sightings. 
 
-![nasa](Readme_Images/nasa.jpg)
-
-
+<p float="left">
+  <img src="Readme_Images/UFO.png" width="350" height="100" />
+  <img src="Readme_Images/nasa.jpg" width="350" height="100" />
+</p>
 
 ## Results
 
@@ -26,30 +27,29 @@ Now, Dana's webpage can provide a more in-depth analysis of UFO sightings.
 * Google Chrome
 * Visual Studio Code - Version: 1.62.3
 
-### Outcomes /There is a description of how to perform a search, with images.
+### Outcomes
 
 The UFO Sightings dynamic webpage includes the following:
 
 - Navigation Bar: "UFO Sightings"
 - Page Header: "The Truth is Out There"
-- Article Title: "UFO Sightings: Fact ir Fabcy? Ufologists Weigh In"
+- Article Title: "UFO Sightings: Fact or Fancy? Ufologists Weigh In"
 - Article Paragraph
 - Filters for the Table: "Date, City, State, Country, and Shape"
 - Table of Sightings Data
 
 <p float="left">
-  <img src="Readme_Images/Storyboard.png" width="500" height="400" />
-  <img src="Readme_Images/Storyboard_webpage.png" width="500" height="400" /> 
+  <img src="Readme_Images/Storyboard.png" width="500" height="350" />
+  <img src="Readme_Images/Storyboard_webpage.png" width="500" height="350" /> 
 </p>
 
-Below is a quick walk-through on how to use the filters to search specific data from the data table.
+Furthermore, below is a quick walk-through on how to use the filters to search for specific data from the table of sightings data.
 
 https://user-images.githubusercontent.com/95309815/156206558-a978ceb5-cba0-4769-bd31-aaf126460bd9.mov
 
+As shown here, the registered UFO sightings data is displayed as a table organized by date, city, state, country, shape, duration, and comments.
 
-
-
-The data summary below provides solid statistical analysis—such as the mean, standard deviation, minimum, maximum, and percentiles for temperatures in June and December, respectively. The count is the number of times temperature was observed.
+iNSERT IMage: Data Columns.png
 
       
 ## Summary
