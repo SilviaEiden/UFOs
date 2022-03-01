@@ -27,7 +27,7 @@ Now, Dana's dynamic webpage can provide a more in-depth analysis of UFO sighting
 * JavaScript, or JS
 * HyperText Markup Language, or HTML
 * Google Chrome
-* Visual Studio Code - Version: 1.62.3
+* Visual Studio Code, or VS Code (Version 1.62.3)
 
 ### Outcomes
 
