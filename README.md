@@ -18,8 +18,8 @@ Now, Dana's dynamic webpage can provide a more in-depth analysis of UFO sighting
 
 ### Dataset and Files
 
-* Data.js file: [data](../static/js/data.js)
-* App.js file: [app](../static/js/app.js)
+* Data.js file: [data](static/js/data.js)
+* App.js file: [app](static/js/app.js)
 * Index.html file: [index](index.html)
 
 ### Software and Web-Based Application
