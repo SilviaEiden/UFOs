@@ -34,8 +34,8 @@ The UFO Sightings dynamic webpage includes the following:
 - Table of Sightings Data
 
 <p float="left">
-  <img src="Images/June_precipitation_graphsummary.png " width="400" height="380" />
-  <img src="Images/December_precipitation_graphsummary.png" width="400" height="380" /> 
+  <img src="Readme_Images/Storyboard.png" width="500" height="400" />
+  <img src="Readme_Images/Storyboard_webpage.png" width="500" height="400" /> 
 </p>
 
 Below is a quick walk-through on how to use the filters to search specific data from the data table.
